@@ -6,7 +6,6 @@
 
 *Hello Friends aka Frandz! In this simple yet a bit mis-pronounced workshop, we are going to make a contactless temperature meter which can show you your body temperature and as well your surrounding's temperature.*
 
-<br>
 
 ## Gimme The Shopping List
 
@@ -31,7 +30,6 @@ You can also try out the code on:
 
 [Circuit Lab](https://www.circuitlab.com/)
 
-<br>
 
 ## Here Are Some Details For MLX 90614:
 
@@ -40,7 +38,6 @@ You can also try out the code on:
 3. Resolution: 0.02 °C
 4. Accuracy: 0.5°C for (0-50 °C) both ambient and object
 
-<br>
 
 # Ready. Set. Measure!
 
