@@ -3,10 +3,6 @@
 | Description |During the times of covid, making something contactless! |
 | Author      |    @iamsid47 @prathambumb               |
 
-name: Contactless Temperature Meter
-description: During the times of covid, making something contactless!
-author: @iamsid47 @prathambumb
-
 
 *Hello Friends aka Frandz! In this simple yet a bit mis-pronounced workshop, we are going to make a contactless temperature meter which can show you your body temperature and as well your surrounding's temperature.*
 
