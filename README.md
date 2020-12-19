@@ -1,8 +1,8 @@
-| Name        |      Contactless Temperature Meter      |
-|-------------|:---------------------------------------:|
-| Description |During the times of covid, making something contactless! |
-| Author      |    @iamsid47 @prathambumb               |
-
+---
+name: 'Contactless Temperature Meter'
+description: 'During the times of covid, making a contactless temperature checker!'
+author: '@iamsid47 @prathambumb',
+---
 
 *Hello Friends aka Frandz! In this simple yet a bit mis-pronounced workshop, we are going to make a contactless temperature meter which can show you your body temperature and as well your surrounding's temperature.*
 
@@ -238,4 +238,4 @@ Schematic: Wiring With MONITOR
 
 <img src="assets/with-serial-monitor.jpg" width=400px>
 
-With The Serial Monitor
+Testing With The Serial Monitor
