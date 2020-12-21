@@ -1,7 +1,7 @@
 ---
 name: 'Contactless Temperature Meter'
 description: 'During the times of covid, making a contactless temperature checker!'
-author: '@iamsid47 @prathambumb',
+author: '@iamsid47 @prathambumb'
 ---
 
 *Hello Friends aka Frandz! In this simple yet a bit mis-pronounced workshop, we are going to make a contactless temperature meter which can show you your body temperature and as well your surrounding's temperature.*
