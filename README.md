@@ -195,6 +195,8 @@ void loop() {
 }
 ```
 
+Don't forget to select the correct board from your board manager and the correct comport. And then, press the upload button.
+
 ## Some Important Links:
 1. [ML90614 library](https://github.com/adafruit/Adafruit-MLX90614-Library)
 2. [Adafruit SSD1306 library](https://github.com/adafruit/Adafruit_SSD1306)
